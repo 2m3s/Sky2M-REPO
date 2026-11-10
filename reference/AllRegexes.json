@@ -120,6 +120,7 @@
     "core.Sky2MLocation.FLOOR": "Catacombs \\((?<floor>[FM]\\d|E)\\)",
     "core.Sky2MLocation.GLACITE": "Glacite Tunnels|Dwarven Base Camp|Great Glacite Lake|Fossil Research Center",
     "core.Sky2MLocation.LEADING_TEXT": "[\\p{L}\\p{N}]",
+    "core.Sky2MLocation.LOCATION_LINE": "[⏣ф\\x{E067}\\x{E020}] (?<location>.+)",
     "core.Sky2MLocation.NOT_ASCII": "[^\\x20-\\x7E]",
     "core.Sky2MLocation.PADDING_EMOJI": "[\\x{10000}-\\x{10FFFF}]",
     "dungeons.AutoRequeue.GONE_NAME": "^(?:\\[[^\\]]+] )?(?<name>[A-Za-z0-9_]{1,16}) (?:has|was) ",
